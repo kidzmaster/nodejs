@@ -64,7 +64,7 @@ var ContainerPage =React.createClass({
 
             <div>
 
-            <h3><a href="#">React v15.4.0</a></h3>
+            <h3><a href="/post">React v15.4.0</a></h3>
             November 16, 2016 by Dan Abramov
                 <hr/>
               <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

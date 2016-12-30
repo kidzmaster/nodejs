@@ -11,3 +11,6 @@ app.get("/",function(req,res){
 app.get("/pages",function(req,res){
   res.render("pages");
 })
+app.get("/post",function(req,res){
+  res.render("posts");
+})
